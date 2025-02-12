@@ -1,4 +1,4 @@
-package com.exemple.seceond.driver.controller.exceptions;
+package com.exemple.seceond.driver.exceptions;
 
 /**
  * Custom exception for representing a not found entity.

@@ -1,4 +1,4 @@
-package com.exemple.seceond.driver.controller.exceptions;
+package com.exemple.seceond.driver.exceptions;
 
 import com.exemple.seceond.core.domain.exception.UnauthorizedAccessException;
 import feign.Response;
